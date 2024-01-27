@@ -5,6 +5,8 @@ This is the client for my two projects that I did in a course of my early year i
 - **Dog breed classification**: This app is used to classify dog breeds into 120 breeds.
 
 # How to run
+> :warning: This need a server to run. Please refer to [this repo](https://levulinhbk@bitbucket.org/levulinhbk/soc-term-project-dl-service.git/src)
+
 Just like every other React app, you can run this app by:
 ```
 npm start
