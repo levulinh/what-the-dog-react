@@ -14,6 +14,7 @@ npm start
 This project is built with React and Redux. The project is built with the help of *create-react-app*. The client connects to endpoints from a Flask server. The server serves the model in a naive manner, which is not recommended for production. However, for the purpose of this project, it is sufficient.
 
 # Demo
+Live demo: https://what-the-dog.onrender.com/
 ## News classification
 ![News classification](imgs/news_clf.png)
 ![News classification](imgs/news_clf_2.png)
