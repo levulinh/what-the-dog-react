@@ -135,7 +135,7 @@ const PredictionForm = () => {
                     {dogPredictionResult && (
                         <Segment>
                             <h2>Result:</h2>
-                            <Image src={imageUrl} fluid />
+                            <Image src={imageUrl} style={{ "max-width": "400px" }} />
                             {dogPredictionResult !== '' ? renderResult(dogPredictionResult) : null}
                         </Segment>
                     )}
